@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phuong nguyen
 =====================================================================================================================================
 
-Computer Science Major
+Data Science and Machine Learning Focus
 ----------------------
 
-As a computer science undergraduate at Iowa State University, I'm deeply engaged in the technological landscape, with a particular interest in data science. My journey in computer science has equipped me with solid programming skills and a keen analytical mindset. This background, combined with my enthusiasm for data-driven solutions, propels my ambition to explore and contribute to the field of data science.
+I am a Master of Science student in Computer Engineering at Iowa State University with a strong foundation in computer science. I’m passionate about applying data science, machine learning, and statistical modeling to solve real-world problems at the intersection of technology, energy, and society.
+
+Outside of academics, I love playing badminton, am a lifelong Arsenal fan, and enjoy sharing Vietnamese food and culture with the world.
 
 * 🌍  I'm based in Iowa
-* 🖥️  See my portfolio at [Phuong Nguyen](http://phuongnguyen-portfolio-c9451.web.app)
 * ✉️  You can contact me at [nhphuong@iastate.edu](mailto:nhphuong@iastate.edu)
-* 🧠  I'm learning Data Science
-* 🤝  I'm open to collaborating on any interesting project related to Data science
 
 ### Skills
 
