@@ -2,7 +2,7 @@
 
 ### Data engineering · Applied machine learning · Software that people use
 
-I'm a Computer Engineering master's student based in Iowa and a CS graduate in the top 2% of my class. I build data pipelines and applications, with research focused on how solar energy and agriculture can share the same land.
+I'm a Computer Engineering master's student based in Iowa and a CS graduate in the top 2% of my class. I build data pipelines and applications.
 
 [LinkedIn](https://www.linkedin.com/in/nhphuong2504) · [Email](mailto:nhphuong@iastate.edu) · [Tournova](https://tournova.app)
 
