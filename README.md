@@ -1,28 +1,39 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phuong Nguyen
-=====================================================================================================================================
+# Phuong Nguyen
 
-Data Science and AI Focus
-----------------------
+### Data engineering · Applied machine learning · Software that people use
 
-Master’s student in Computer Engineering and Top 2% CS graduate with experience applying data and software engineering to 
-solve real-world problems. Skilled in developing intelligent systems that uncover patterns, improve decision-making, and 
-support customer growth and retention. Combines a strong analytical foundation with practical experience building scalable 
-tools and intuitive applications. Currently researching how solar energy and crop agriculture can coexist to enhance land 
-productivity and sustainability
+I'm a Computer Engineering master's student based in Iowa and a CS graduate in the top 2% of my class. I build data pipelines and applications, with research focused on how solar energy and agriculture can share the same land.
 
-Outside of academics, I love playing badminton, am a lifelong Arsenal fan, and enjoy sharing Vietnamese food and culture with the world.
+[LinkedIn](https://www.linkedin.com/in/nhphuong2504) · [Email](mailto:nhphuong@iastate.edu) · [Tournova](https://tournova.app)
 
-* 🌍  I'm based in Iowa
-* ✉️  You can contact me at [nhphuong@iastate.edu](mailto:nhphuong@iastate.edu)
+## Selected work
 
+### [Solar Telemetry Pipeline](https://github.com/nhphuong2504/solar-telemetry-pipeline)
+From monthly inverter CSVs to traceable power records and energy estimates, with explicit data coverage and source lineage.
 
-### Socials
+- Processes **19.25 million input-power records** across 19 monthly scopes.
+- Verifies source values and lineage, preserves file versions, and supports repeat ingestion.
+- Uses AWS S3 with local Airflow orchestration, PostgreSQL and dbt transformations.
 
-<p align="left"> <a href="https://www.facebook.com/iliinois.ga" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nhphuong2504" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nhphuong2504" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@hphuongnguyenn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+**Python · SQL · AWS S3 · PostgreSQL · dbt · Airflow · Docker · Terraform**
 
-### Badges
+### [Tournova](https://github.com/nhphuong2504/shuttle-scheduler)
+A badminton tournament operations app that brings registration, draws, court scheduling and live scoring into one workflow.
 
-<b>My GitHub Stats</b>
+- Handles scheduling constraints and the changing state of a live tournament.
+- Provides dedicated workflows for organisers, moderators and participants.
+- Combines database access controls with unit, integration and browser tests.
 
-<a href="http://www.github.com/nhphuong2504"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nhphuong2504&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**TypeScript · React · TanStack Start · Supabase · PostgreSQL · Cloudflare Workers**  
+[Visit Tournova →](https://tournova.app)
 
+### [Agrivoltaics Research](https://github.com/nhphuong2504/agrivoltaics)
+Exploring the relationship between solar generation and crop agriculture through data analysis, with a focus on reliable comparisons and the limits of real-world measurements.
+
+## What I care about
+
+Reliable data, clear evaluation, and systems that remain useful beyond a notebook. My current work connects data engineering, applied ML and practical software development.
+
+---
+
+Away from the keyboard: badminton, Arsenal, and sharing Vietnamese food and culture.
